@@ -1,0 +1,8 @@
+{
+  "defaultSchema": "dataform",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "longz-prem-bd",
+  "defaultLocation": "US"
+}
+    
